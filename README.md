@@ -12,14 +12,6 @@ A React Native application that combines interactive mapping with Bluetooth Low 
 - **Smart Device Management**: Automatic device discovery, connection caching, and retry logic
 - **Cross-Platform**: Supports both Android and iOS with platform-specific optimizations
 
-## 📱 Screenshots
-
-The app displays an interactive map where users can:
-- Tap to add waypoints (green for source, red for destination, blue for intermediate points)
-- View route connections with polylines
-- See total distance calculations
-- Send waypoint data to BLE devices
-
 ## 🛠️ Technology Stack
 
 - **React Native 0.74.2**: Core mobile framework
@@ -210,5 +202,6 @@ Enable debug logging by monitoring console output for detailed BLE and GPS opera
 - [Bluetooth Low Energy Guide](https://developer.android.com/guide/topics/connectivity/bluetooth-le)
 
 ---
+
 
 Built with ❤️ for autonomous navigation and IoT projects
